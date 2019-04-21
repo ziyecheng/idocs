@@ -7,3 +7,7 @@
 # 在线调试地址
 [websocket](http://www.websocket.org/echo.html)
 
+# 国内镜像地址
+[ali-opsx](https://opsx.alibaba.com/mirror)
+[163](http://mirrors.163.com/)
+[huawei](https://mirrors.huaweicloud.com/)
